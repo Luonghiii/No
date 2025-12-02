@@ -1,5 +1,5 @@
 import dynamic from "next/dynamic";
-import MovieCard from "/MovieCard";
+import MovieCard from "./MovieCard";
 import "swiper/css";
 
 const Swiper = dynamic(
