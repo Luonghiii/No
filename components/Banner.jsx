@@ -1,4 +1,4 @@
-import { movies } from "../data/movies";
+import { movies } from "./data/movies";
 
 export default function Banner() {
   const movie = movies[0];
